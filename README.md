@@ -258,7 +258,10 @@ A vida financeira é como uma jornada em 4 fases:
 | FIIs  | Fundos de imóveis (aluguéis, shoppings)        | Médio      | Renda mensal, longo prazo   |
 | ETFs  | Cesta de ações que segue índice (ex: Ibovespa) | Médio/Alto | Diversificação, longo prazo |
 
+---
+
 ### 📌 Tesouro Direto – Tipos de Títulos
+
 | Título             | Tipo       | Como rende                        | Indicação                                |
 |---------------------|-----------|-----------------------------------|------------------------------------------|
 | Tesouro Selic       | Pós-fixado| Selic diária                      | Reserva de emergência                    |
@@ -266,25 +269,31 @@ A vida financeira é como uma jornada em 4 fases:
 | Tesouro IPCA+       | Híbrido   | Inflação (IPCA) + taxa fixa       | Longo prazo, proteger poder de compra    |
 | Tesouro Educa+      | Híbrido   | Inflação + taxa fixa; paga renda por 5 anos | Planejamento de estudos (faculdade) |
 | Tesouro RendA+      | Híbrido   | Inflação + taxa fixa; paga renda por 20 anos | Planejamento de aposentadoria     |
+
 ---
 
 ### 📌 Dívidas
+
 | Tipo de Dívida | Explicação                             | Exemplo                                  |
 |----------------|-----------------------------------------|------------------------------------------|
 | Boa            | Ajuda no futuro                         | Estudo, casa própria, abrir negócio      |
 | Ruim           | Consumo desnecessário, juros altos      | Parcelar compras supérfluos, cartão sem controle |
 | CET            | Custo Efetivo Total (juros + taxas)     | Valor real da dívida                     |
+
 ---
 
 ### 📌 Empreendedorismo
+
 | Perfil        | Característica                          |
 |---------------|-----------------------------------------|
 | Observador    | Identifica problemas                    |
 | Construtor    | Colabora com soluções                   |
 | Iniciador     | Cria e coloca ideias em prática         |
+
 ---
 
 ### 📌 Siglas Importantes
+
 | Sigla  | Significado                               |
 |--------|--------------------------------------------|
 | OLITEF | Olimpíada do Tesouro Direto de Educação Financeira |
@@ -301,6 +310,7 @@ A vida financeira é como uma jornada em 4 fases:
 | FIIs   | Fundos de Investimento Imobiliário        |
 | CDI    | Certificado de Depósito Interbancário     |
 | CET    | Custo Efetivo Total                       |
+
 ---
 
 > Este resumo e conteúdo foi criado com Inteligência Artificial.
