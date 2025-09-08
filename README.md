@@ -313,4 +313,8 @@ A vida financeira é como uma jornada em 4 fases:
 
 ---
 
+# <p align="center">[📕 Capítulo Extra - Resolução Prova 2024](prova-2024.md)</p>
+## <p align="center">Clique ⬆️</p>
+
+
 > Este resumo e conteúdo foi criado com Inteligência Artificial.
